@@ -26,6 +26,8 @@ Whatever, man! it works so it's fine.
 
 By the way, I'd appreciate it if one of you could dockerise this repo.
 
+**KEEP IN MIND:** THIS WEB APP IS **NOT** PRODUCTION READY.
+
 ## Setup
 
 1. Clone the Repostitory:
