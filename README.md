@@ -1,6 +1,6 @@
 # The House
 
-Simple Forum written in PHP.
+Simple Old-School themed Forum written in PHP.
 
 ## How and Why?
 
