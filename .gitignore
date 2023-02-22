@@ -1,0 +1,9 @@
+# VSCode
+.vscode/
+
+# My things!
+.ENV
+
+# Dummy Posts
+www/uploads/posts/*.*
+www/uploads/profiles/*.*

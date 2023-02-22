@@ -1,0 +1,154 @@
+@media only screen and (max-width: 600px) {
+    body {
+        font-family: Tahoma;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    body {
+        margin: 10px 120px;
+        font-family: Tahoma;
+    }
+}
+
+.bio {
+    color: black;
+}
+
+.tiny-pfp {
+    border: 1px solid black;
+    width: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.delete-thread {
+    color: #808080;
+}
+
+h1,
+h4,
+ol {
+    margin: 0;
+}
+
+p {
+    margin: 1px 0;
+}
+
+.title {
+    font-size: 14px;
+}
+
+.top-bar {
+    background-color: #a5a5a5;
+    width: 100%;
+    padding: 3px 20px;
+}
+
+.index_main {
+    background-color: #F6F6EF;
+    padding: 2px 0px;
+}
+
+.main {
+    background-color: #F6F6EF;
+    padding: 2px 20px;
+}
+
+.row {
+    padding: 2px 0px;
+}
+
+.bottom {
+    display: flex;
+    color: grey;
+    font-size: 12px;
+}
+
+.delete-account {
+    color: red;
+    text-decoration: underline;
+}
+
+/* Comments' Stuff */
+
+.comments {
+    margin: 40px 0;
+}
+
+.comment {
+    margin: 20px 0;
+}
+
+.row {
+    padding: 5px 0;
+}
+
+.bottom,
+.top-comment {
+    display: flex;
+    color: grey;
+    font-size: 12px;
+}
+
+.timestamp {
+    padding-right: 10px;
+}
+
+.comment-ts {
+    padding-left: 10px;
+}
+
+.comment-delete {
+    padding-left: 10px;
+}
+
+.comment-reply {
+    padding-left: 10px;
+}
+
+.comment-content {
+    font-size: 14px;
+}
+
+.comment-content a {
+    text-decoration: underline;
+    color: blue;
+}
+
+.comment-children {
+    padding-left: 20px;
+}
+
+.highlighted {
+    background-color: #f3f3b0;
+}
+
+.tooltip-wrap .tooltip-content {
+    display: none;
+    position: absolute;
+    margin-top: 1px;
+    background-color: #eeeeee;
+    padding: .4em;
+}
+
+.tooltip-wrap:hover .tooltip-content {
+    display: block;
+}
+
+.quoted-post {
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-left: 5px solid #cccccc;
+}
+
+.quoted-post-author {
+    font-style: italic;
+    font-size: smaller;
+    margin-top: 5px;
+}
